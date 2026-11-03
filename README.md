@@ -2,7 +2,7 @@
 
 我的个人博客，用来分享文章、记录学习过程。使用 Astro 构建，部署于 GitHub Pages。
 
-[访问博客](https://lelyetia.github.io/) · [知识库](https://lelyetia.github.io/Lelyetia-knowledge/)
+[访问博客](https://lelyetia.github.io/) · [知识库](https://lelyetia.github.io/lelyetia-knowledge/)
 
 ## 本地开发
 
@@ -31,7 +31,7 @@ npm run preview
 
 文章使用 Markdown 编写。将封面图片放入封面目录，重新构建后即可在网站中选择。
 
-书籍、课程与代码仓库已统一整理到[知识库的学习资源章节](https://lelyetia.github.io/Lelyetia-knowledge/learning-resources/)。
+书籍、课程与代码仓库已统一整理到[知识库的学习资源章节](https://lelyetia.github.io/lelyetia-knowledge/learning-resources/)。
 
 ## 致谢
 

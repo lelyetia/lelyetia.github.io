@@ -2,7 +2,7 @@ import { defineConfig } from "astro/config";
 import rehypeKatex from "rehype-katex";
 import remarkMath from "remark-math";
 
-const knowledgeResources = "https://lelyetia.github.io/Lelyetia-knowledge/learning-resources";
+const knowledgeResources = "https://lelyetia.github.io/lelyetia-knowledge/learning-resources";
 
 export default defineConfig({
   site: "https://lelyetia.github.io",

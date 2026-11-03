@@ -45,7 +45,7 @@ const evidenceImages = award.evidenceImages ?? (award.evidenceImage ? [award.evi
           </section>
         )}
         {evidenceImages.length === 1 && (
-          <img src={evidenceImages[0]} alt={`${award.title} ${evidenceLabel}`} />
+          <img src={evidenceImages[0]} alt={award.evidenceImageAlt ?? `${award.title} ${evidenceLabel}`} />
         )}
         {evidenceImages.length > 1 && (
           <div class="evidence-record-grid">
